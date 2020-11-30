@@ -3,7 +3,8 @@
 #### Consiste em uma adaptação do conhecido problema, na computação, "Two Generals' Problem" - ou "Problema dos Dois Generais"
 -----------------------------------------------
 ##### Enunciado (íntegra):
-```Há dois exércitos tentando atacar um castelo no centro de uma planície. 
+```
+  Há dois exércitos tentando atacar um castelo no centro de uma planície. 
   O exército azul está ao sul e o exército vermelho está ao norte. 
   A única possibilidade de vitória para os dois exércitos sobre o castelo é se eles atacarem ao mesmo tempo.
   Para isso, eles precisam sincronizar um horário para o ataque.
